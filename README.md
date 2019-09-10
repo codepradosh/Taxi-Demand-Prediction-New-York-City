@@ -35,17 +35,17 @@ Anaconda: It will install ipython notebook and most of the libraries which are n
 
 
 # Libraries:
-# dask: It is used to handle very large files.
+# Dask: It is used to handle very large files.
 i) pip3 install dask
 
-# folium: It is used to plot maps using latitude and longitude.
+# Folium: It is used to plot maps using latitude and longitude.
 i) pip3 install folium
 ii) conda install -c conda-forge folium
 
-# xgboost: It is used to make xgboost regression model.
+# Xgboost: It is used to make xgboost regression model.
 i) pip3 install xgboost
 ii) conda install -c conda-forge xgboost
 
-# gpxpy: It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
+# Gpxpy: It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
 i) pip install gpxpy
 
